@@ -1,0 +1,8 @@
+https://washington.zoom.us/j/98282583247?pwd=EmuycakyZddq2aoV9UGxUZIeKebYZJ.1
+Password: Nazmul
+\FIRST SAVE FILE
+git add .
+git commit -m ""
+git push
+
+https://github.com/huda100412/techin509_week01.git
